@@ -1,0 +1,6 @@
+{
+  "name": "GeoLogix AI — Geopolitical Supply Chain Risk Intelligence",
+  "description": "Enterprise-grade geospatial risk intelligence platform to map, simulate, and mitigate geopolitical supply chain disruptions, choke-point vulnerabilities, and cascading logistics risks with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
